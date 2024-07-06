@@ -1,2 +1,1 @@
-# resentment
 seven
